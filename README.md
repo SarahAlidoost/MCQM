@@ -6,6 +6,10 @@ Three multivariate copula quantile mappings (MCQMs) and one-dimensional quantile
 The `MCQM_script.R` in the scripts folder shows how to use the functions and implement MCQM using the example data.
 The `example_data.RData` contains mean air temperature at one day obtained from weather stations and ERA-Interim data.
 
+## New to copulas?
+
+Please take a look at the post ["Environmental processes are linked, but how?" An introduction to copulas](https://blog.esciencecenter.nl/environmental-processes-are-linked-but-how-ba917e79094b).
+
 ## References:
 
 * Alidoost F., Stein A., Su Z, Sharifi, A. 2019. Multivariate copula quantile mapping for bias correction of reanalysis air temperature data. Journal of Spatial Science, https://doi.org/10.1080/14498596.2019.1601138.

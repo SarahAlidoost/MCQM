@@ -8,7 +8,7 @@ The `example_data.RData` contains mean air temperature at one day obtained from 
 
 ## References:
 
-* Alidoost F., Stein A., Su Z, Sharifi, A. 2019. Multivariate copula quantile mapping for bias correction of reanalysis air temperature data. [Journal of Spatial Science](https://doi.org/10.1080/14498596.2019.1601138).
+* Alidoost F., Stein A., Su Z, Sharifi, A. 2019. Multivariate copula quantile mapping for bias correction of reanalysis air temperature data. Journal of Spatial Science, https://doi.org/10.1080/14498596.2019.1601138.
 
 * Alidoost, F., (2019), Copulas for integrating weather and land information in space and time ([Doctoral](https://research.utwente.nl/en/publications/copulas-for-integrating-weather-and-land-information-in-space-and)), University of Twente.
 

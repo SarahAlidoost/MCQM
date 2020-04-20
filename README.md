@@ -4,7 +4,10 @@
 
 Three multivariate copula quantile mappings (MCQMs) and one-dimensional quantile mapping (QM) are used to predict bias-corrected values at unvisited locations.
 The `MCQM_script.R` in the scripts folder shows how to use the functions and implement MCQM using the example data.
+
 The `example_data.RData` contains mean air temperature at one day obtained from weather stations and ERA-Interim data.
+
+The packages `sp`, `gstat`, `VineCopula`, and `copula` are available on [CRAN](https://cran.r-project.org/) whereas the package `spcopula` on [R-Forge](https://r-forge.r-project.org/).
 
 ## New to copulas?
 
